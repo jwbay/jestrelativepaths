@@ -1,0 +1,8 @@
+{
+	"automock": true,
+	"testEnvironment": "node",
+	"moduleDirectories": [
+		"node_modules",
+		"./"
+	]
+}
